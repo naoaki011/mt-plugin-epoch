@@ -1,0 +1,10 @@
+name: Epoch
+id: Epoch
+description: <__trans phrase='Epoch'>
+version: 0.1
+
+tags:
+  function:
+    Time2Epoch:  $Epoch::Epoch::Tags::time_to_epoch
+    CurrentEpoch:  $Epoch::Epoch::Tags::current_epoch
+    Differ: $Epoch::Epoch::Tags::differ
